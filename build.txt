@@ -1,0 +1,3 @@
+displayName = The Bloup Bloup Mod 
+author = YingPanda & Platypus
+version = 0.1

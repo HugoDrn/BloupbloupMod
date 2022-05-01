@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DbqKA/7bkGImuI2RoH5DwpGwY6WE40rlSlm+hhSO97J/kzyvP39USdtfzon20ymlnoXfzQTdo8P+RosvptRTSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugod\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\BloupbloupMod\\BloupbloupMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugod\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\hugod\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512",
+    "C:\\Users\\hugod\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

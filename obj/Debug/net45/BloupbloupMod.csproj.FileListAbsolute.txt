@@ -1,0 +1,5 @@
+C:\Users\hugod\Documents\My Games\Terraria\ModLoader\Mod Sources\BloupbloupMod\obj\Debug\net45\BloupbloupMod.csproj.AssemblyReference.cache
+C:\Users\hugod\Documents\My Games\Terraria\ModLoader\Mod Sources\BloupbloupMod\obj\Debug\net45\BloupbloupMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugod\Documents\My Games\Terraria\ModLoader\Mod Sources\BloupbloupMod\obj\Debug\net45\BloupbloupMod.AssemblyInfoInputs.cache
+C:\Users\hugod\Documents\My Games\Terraria\ModLoader\Mod Sources\BloupbloupMod\obj\Debug\net45\BloupbloupMod.AssemblyInfo.cs
+C:\Users\hugod\Documents\My Games\Terraria\ModLoader\Mod Sources\BloupbloupMod\obj\Debug\net45\BloupbloupMod.csproj.CoreCompileInputs.cache
